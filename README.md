@@ -25,4 +25,3 @@ Computer Science graduate specializing in AI/ML and Data Analytics. Published IE
 
 ---
 💼 Open to opportunities | 🎓 SRM University | 🏆 IEEE Best Paper Award
-```
