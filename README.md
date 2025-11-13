@@ -16,6 +16,14 @@ Computer Science graduate specializing in AI/ML and Data Analytics. Published IE
 - 🎭 **Emotion Recognition** - Multimodal system (87.3% accuracy) with XAI
 - 🎮 **Volume Control with Hand Gestures** - OpenCV & MediaPipe (95% accuracy)
 
+# 🎬 Netflix Content Analysis Dashboard
+  
+  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://netflix-db.streamlit.app/)
+  
+  **🚀 [VIEW LIVE DASHBOARD](https://netflix-db.streamlit.app/)** ← Click to explore!
+  
+  > Interactive data dashboard with real-time filtering and insights
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshdhingra)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workdhingra26@gmail.com)
