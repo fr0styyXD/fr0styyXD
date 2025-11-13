@@ -16,7 +16,7 @@ Computer Science graduate specializing in AI/ML and Data Analytics. Published IE
 - 🎭 **Emotion Recognition** - Multimodal system (87.3% accuracy) with XAI
 - 🎮 **Volume Control with Hand Gestures** - OpenCV & MediaPipe (95% accuracy)
 
-# 🎬 Netflix Content Analysis Dashboard
+## 🎬 Netflix Content Analysis Dashboard
   
   [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://netflix-db.streamlit.app/)
   
